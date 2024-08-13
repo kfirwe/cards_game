@@ -88,7 +88,7 @@ function checkForMatch() {
       firstCard.classList.remove("flipped");
       secondCard.classList.remove("flipped");
       resetFlippedCards();
-    }, 300); // Short delay for the user to see the second card
+    }, 800); // Short delay for the user to see the second card
   }
 }
 
